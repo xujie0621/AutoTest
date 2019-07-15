@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoTest</string>
+    <string name="accessibility_description">AutoClick</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">开始消息服务</string>
+    <string name="button2">终止消息服务</string>s
+</resources>
